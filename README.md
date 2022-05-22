@@ -3,7 +3,7 @@ Welcome to my page!
 I'm Mustafa, web developer from Syria, living in <b> Copenhagen, Denmark <b> 
 - 🔭 I’m currently working on my own project
 - 🌱 I’m currently learning nodejs
-- 👯 I'm looking to collaborate on building huge projects
+- 👯 I'm looking to collaborate on building huge projects (currently working on one"busy") 
 - 😄 Pronouns: he/him  
 
 <p align="center">   
