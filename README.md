@@ -15,13 +15,14 @@ I'm Mustafa, web developer from Syria, living in <b> Copenhagen, Denmark <b>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-red?style=flat-square&logo=CSS3&logoColor=white" width="80px" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=html5&logoColor=white" width="90px" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" width="90px" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" width="115px" />
   
 ## Tools
   <img title="VS Code" alt="VS Code" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width="50px">
   <img title="git" alt="git" src="https://img.icons8.com/color/344/git.png" width="50px">
   
  ## Reach me here:wink::star_struck:	
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+  <a href="https://www.linkedin.com/in/mustafa-hassam/">
     <img align="Mustafa's Linkdin" src="https://img.icons8.com/color/344/linkedin.png" width="50px"></a>
   <a href="https://www.Instagram.com/mustafa.hassam1/">
     <img align="left" alt="Mustafa's Instagram" src="https://img.icons8.com/fluency/344/instagram-new.png" width="50px" /></a>
